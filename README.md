@@ -6,7 +6,7 @@ School project.
 https://clorurodisodio.github.io/SvankmajerWebsite/
 
 
-Section available:
+Sections available:
   -HOME
   -ABOUT
   -FILMS
